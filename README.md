@@ -1,4 +1,3 @@
-# mexitli300186
 # About me
 - 😺 Name: Mexitli Nayeli Lopez Rios
 - 😄 Pronouns: She/Her
@@ -17,5 +16,4 @@
 - MA in Mexican Literature Studies
 - PhD Candidate Anglophone Literature Studies
 
-# Connect with me
-[this is a link] {www.linkedin.com/in/mexitli-nayeli-lopez-rios-61b32a48}
+Connect with me on [LinkedIn](www.linkedin.com/in/mexitli-nayeli-lopez-rios-61b32a48) or check out my [CV](./docs/cv.md)
