@@ -16,4 +16,4 @@
 - MA in Mexican Literature Studies
 - PhD Candidate Anglophone Literature Studies
 
-Connect with me on [LinkedIn](www.linkedin.com/in/mexitli-nayeli-lopez-rios-61b32a48) or check out my [CV](./docs/cv.md)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mexitli-nayeli-lopez-rios-61b32a48) or check out my [CV](./docs/cv.md)
